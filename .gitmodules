@@ -1,0 +1,9 @@
+[submodule "psas-telemetry"]
+	path = psas-telemetry
+	url = https://github.com/psas/telemetry
+[submodule "nasa-mission-control"]
+	path = nasa-mission-control
+	url = https://github.com/nasa/mct.git
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = https://github.com/mavlink/qgroundcontrol.git
